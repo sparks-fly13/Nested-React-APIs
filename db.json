@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Taylor"
+    },
+    {
+      "name": "Grant Mueller",
+      "id": 2
+    },
+    {
+      "name": "Virgil Jones",
+      "id": 3
+    },
+    {
+      "name": "Dana McLaughlin V",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 13,
+      "title": "Taylor's Album",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Frozen Shoes",
+      "id": 14
+    },
+    {
+      "userId": 2,
+      "title": "Sleek Granite Cheese",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Rubber Shoes",
+      "id": 21
+    },
+    {
+      "userId": 4,
+      "title": "Modern Metal Salad",
+      "id": 26
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Metal Mouse",
+      "id": 28
+    },
+    {
+      "userId": 4,
+      "title": "Small Rubber Chips",
+      "id": 29
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 20,
+      "title": "Practical Frozen Pizza",
+      "url": "https://loremflickr.com/640/480?lock=4455023438200832",
+      "id": 1
+    },
+    {
+      "albumId": 21,
+      "title": "Generic Frozen Soap",
+      "url": "https://loremflickr.com/640/480?lock=2673098679648256",
+      "id": 3
+    },
+    {
+      "albumId": 26,
+      "title": "Gorgeous Wooden Towels",
+      "url": "https://loremflickr.com/640/480?lock=4947511311597568",
+      "id": 4
+    },
+    {
+      "albumId": 26,
+      "title": "Practical Cotton Shirt",
+      "url": "https://loremflickr.com/640/480?lock=5870157798834176",
+      "id": 7
+    },
+    {
+      "albumId": 26,
+      "title": "Awesome Concrete Chicken",
+      "url": "https://loremflickr.com/640/480?lock=6806390265872384",
+      "id": 8
+    },
+    {
+      "albumId": 26,
+      "title": "Fantastic Steel Keyboard",
+      "url": "https://picsum.photos/seed/0hJk2k/640/480",
+      "id": 9
+    }
+  ]
+}
